@@ -1,7 +1,6 @@
-##Things I have learned at Bloc.io
-1. Markdown
-2. HTML
-3. CSS
-4. Command Line
-5. Git
-6. GitHub
+##Things I've learned at Bloc.io so far...
+1. HTML
+2. CSS
+3. Command Line
+4. Git
+5. GitHub
