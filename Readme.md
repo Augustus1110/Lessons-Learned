@@ -7,3 +7,4 @@
 6. Patience
 7. Tenacity
 8. Perseverance
+9. Research and problem solving skills
